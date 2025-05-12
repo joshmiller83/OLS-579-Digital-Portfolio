@@ -36,6 +36,9 @@ jobs:
         working-directory: slidev
         run: nr build --base /${{ github.event.repository.name }}/
 
+      - name: Copy custom assets into dist
+        run: cp -r slidev/assets/* slidev/dist/assets/
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
