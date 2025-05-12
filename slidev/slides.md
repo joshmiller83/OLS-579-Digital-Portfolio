@@ -50,7 +50,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 layout: image-right
-image: './assets/slide-1-josh-miller-mirror.jpg'
+image: 'assets/slide-1-josh-miller-mirror.jpg'
 ---
 
 <div class="border-l-4 border-gray-400 pl-4 italic text-lg text-gray-700 dark:text-gray-300">“Your leadership is an extension of the relationship with yourself.”<div class="not-italictext-right">— R. Michael Anderson</div></div>
@@ -115,7 +115,7 @@ layout: default
 
 ---
 layout: image-right
-image: './assets/collaboration-stop-hoarding-script.jpg'
+image: 'assets/collaboration-stop-hoarding-script.jpg'
 ---
 
 <h2 class="border-b border-neutral-800 pb-6">From Manager to <span class="text-red-700 dark:text-red-400">Multiplier</span></h2>
