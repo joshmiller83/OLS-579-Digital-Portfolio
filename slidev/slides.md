@@ -133,7 +133,7 @@ layout: default
 ---
 
 <div class="flex flex-col items-center space-y-8 mt-10 text-center text-lg">
-  <h1 class="text-2xl font-semibold mt-4 pb-4">
+  <h1 class="text-2xl font-semibold">
     Ego reacts. <span class="text-red-700 dark:text-red-400">Leadership responds</span>.
   </h1>
 
@@ -158,7 +158,7 @@ layout: default
   </div>
 </div>
 
-<p class="text-center border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 text-sm italic">ARC Model from Leadership Mindset 2.0, Anderson (2021).</p>
+<p class="border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 italic">ARC Model from Leadership Mindset 2.0, Anderson (2021).<br><br><span class="not-italic"><strong class="text-black dark:text-white">Also, a tip!</strong>  <twemoji:light-bulb /> Look inward after tense moments. Journal and follow through on missed opportunities.</span></p>
 
 ---
 layout: center
