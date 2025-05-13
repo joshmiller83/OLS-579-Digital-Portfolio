@@ -158,15 +158,18 @@ layout: default
   </div>
 </div>
 
-<p class="border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 italic">ARC Model from Leadership Mindset 2.0, Anderson (2021).<br><br><span class="not-italic"><strong class="text-black dark:text-white">Also, a tip!</strong>  <twemoji:light-bulb /> Look inward after tense moments. Journal and follow through on missed opportunities.</span></p>
+<p class="border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 italic">ARC Model from Leadership Mindset 2.0, Anderson (2023).<br><br><span class="not-italic"><strong class="text-black dark:text-white">Also, a tip!</strong>  <twemoji:light-bulb /> Look inward after tense moments. Journal and follow through on missed opportunities.</span></p>
 
 ---
-layout: center
-class: text-center
----
 
-# Learn More
+<h1 class="border-b border-neutral-800 pb-6"><twemoji:books />&nbsp; Bibliography</h1>
 
-[Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
+<br>
 
-<PoweredBySlidev mt-10 />
+[Leadership Mindset 2.0 by R. Michael Anderson (2023)](https://www.leadershipmindset.net)
+
+[Leadership: Theory and Practice, 9th Edition by Peter G. Northouse (2021)](https://us.sagepub.com/en-us/nam/leadership/book257617)
+
+&nbsp;
+
+_Reflections, structure, and design are by Josh Miller. Collaborated with ChatGPT to troubleshoot technical challenges and refine written content._
