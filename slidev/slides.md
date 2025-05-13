@@ -132,17 +132,33 @@ My team doesn’t need a fixer. They need a leader who trusts, listens, and step
 layout: default
 ---
 
-# Avoiding the Echo
+<div class="flex flex-col items-center space-y-8 mt-10 text-center text-lg">
+  <h1 class="text-2xl font-semibold mt-4 pb-4">
+    Ego reacts. <span class="text-red-700 dark:text-red-400">Leadership responds</span>.
+  </h1>
 
-<div class="border-l-4 border-gray-400 pl-4 italic text-lg text-gray-700 dark:text-gray-300 mb-8 mt-8">“Similarity is comforting, but it can be misleading.”<div class="not-italic text-right">— R. Michael Anderson</div></div>
+  <div class="flex items-center space-x-4 pb-12">
+    <div class="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-xl shadow-md border-t-4 border-b-4 border-neutral-100 dark:border-neutral-800 hover:border-red-500">
+      <div class="text-sm text-gray-400 uppercase">Slow Down</div>
+      <div class="text-4xl font-bold mt-5 mb-6">Awareness</div>
+      <div class="text-neutral-400 italic">What’s the real issue?<br>What am I trying to solve?</div>
+    </div>
+    <div class="text-4xl">→</div>
+    <div class="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-xl shadow-md border-t-4 border-b-4 border-neutral-100 dark:border-neutral-800 hover:border-red-500">
+      <div class="text-sm text-gray-400 uppercase">Plan it out</div>
+      <div class="text-4xl font-bold mt-5 mb-6">Response</div>
+      <div class="text-neutral-400 italic">A reaction is knee-jerk,<br>not your authentic self.</div>
+    </div>
+    <div class="text-4xl">→</div>
+    <div class="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-xl shadow-md border-t-4 border-b-4 border-neutral-100 dark:border-neutral-800 hover:border-red-500">
+      <div class="text-sm text-gray-400 uppercase">Be realistic</div>
+      <div class="text-4xl font-bold mt-5 mb-6">Compassion</div>
+      <div class="text-neutral-400 italic">No one is perfect.<br>Have self-compassion.</div>
+    </div>
+  </div>
+</div>
 
-I’ve personally discovered that hiring someone who reminds you of yourself is not going to bare the kind of fruit you expect. Similarity might feel comfortable, but innovation requires diverse perspectives.
-
-- Who’s not at the table?
-- What blindspots does my comfort create?
-
-**Stinger:**  
-If I only listen to voices that echo mine, I’ll never hear what’s missing.
+<p class="text-center border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 text-sm italic">ARC Model from Leadership Mindset 2.0, Anderson (2021).</p>
 
 ---
 layout: center
