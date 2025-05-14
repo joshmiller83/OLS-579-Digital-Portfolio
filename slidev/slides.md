@@ -14,7 +14,14 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+fonts:
+  sans: IBM Plex Sans
+  # default
+  weights: '100,200,300,400,500,600,700'
+  # import italic fonts, default `false`
+  italic: true
 
+favicon: 'assets/jm-favicon.ico'
 # open graph
 # seoMeta:
 #  ogImage: https://cover.sli.dev
@@ -22,11 +29,11 @@ mdc: true
 
 <div class="mt-14 flex items-center text-neutral-700 dark:text-neutral-400">
   <div class="flex-grow border-t border-neutral-300 dark:border-neutral-600"></div>
-  <span class="mx-4 whitespace-nowrap uppercase text-center tracking-widest">Josh Miller's</span>
+  <span class="mx-4 whitespace-nowrap uppercase text-center tracking-widest"><twemoji:globe-with-meridians /> Josh Miller's <twemoji:globe-with-meridians /></span>
   <div class="flex-grow border-t border-neutral-300 dark:border-neutral-600"></div>
 </div>
 
-<h1 class="text-center mt-8">World Class Leadership Journey</h1>
+<div class="text-center mt-8 text-6xl font-thin mb-5 text-left">World Class Leadership Journey</div>
 <h2 class="text-red-700 dark:text-red-400">OLS-579</h2>
 
 <p class="border-b pb-12 border-neutral-300 dark:border-neutral-600">This Digital Portfolio captures and synthesizes key leadership insights from OLS 579, presented as a developer (and user) -friendly, web-based slide deck I can reference and evolve over time.</p>
@@ -38,9 +45,9 @@ mdc: true
   <PoweredBySlidev inline-block ml-6 opacity-30 hover:opacity-100 />
 </div>
 
-<div class="abs-br m-6 text-xl">
+<div class="abs-br mr-12 mb-8 text-xl">
   <a href="https://github.com/joshmiller83/OLS-579-Digital-Portfolio" target="_blank" class="slidev-icon-btn">
-    <carbon:logo-github />
+    <logos:git-icon />
   </a>
 </div>
 
@@ -57,7 +64,7 @@ image: 'assets/slide-1-josh-miller-mirror.jpg'
 
 I’ve started to recognize how deeply personal leadership is. 
 
-<span class="text-red-700 dark:text-red-400">It's not just what I do—it's how I see myself.</span>
+<span class="text-red-700 dark:text-red-400 font-medium">It's not just what I do—it's how I see myself.</span>
 
 Letting go of the “doer” identity has helped me start to see the role of “conductor.” A *conductor* creates the structure and rhythm that helps others solve problems together.
 
@@ -77,10 +84,10 @@ layout: default
 
 <div class="grid grid-cols-5 gap-4 leading-loose mt-8">
   <div class="col-span-3">
-    <div class="text-xl pr-14">Reflecting on my <twemoji:face-with-monocle /> <em class="text-red-700 dark:text-red-400">Strategic Mindset</em> score, I realized I often assume my team doesn’t see the bigger picture. That assumption makes me reactive. Instead, I'm learning to:</div>
+    <div class="text-xl pr-14">Reflecting on my <twemoji:face-with-monocle /> <em class="font-medium text-red-700 dark:text-red-400">Strategic Mindset</em> score, I realized I often assume my team doesn’t see the bigger picture. That assumption makes me reactive. Instead, I'm learning to:</div>
   </div>
   <div class="col-span-2">
-    <div class="text-xl leading-12"><twemoji-white-heavy-check-mark /> &nbsp;Trust my team's processes.<br>
+    <div class="text-xl leading-12 font-light"><twemoji-white-heavy-check-mark /> &nbsp;Trust my team's processes.<br>
 <twemoji-white-heavy-check-mark /> &nbsp;Reflect before deciding.<br>
 <twemoji-white-heavy-check-mark /> &nbsp;Look for alignment.</div>
   </div>
@@ -89,7 +96,7 @@ layout: default
 <div class="overflow-x-auto mt-10">
   <div class="grid grid-cols-5 gap-4 cursor-pointer ">
     <div class="hover:opacity-100 opacity-50 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
-      <div class="mb-3">People's Perception</div>
+      <div class="mb-3 font-light">People's Perception</div>
       <div class="weight-100 text-2xl">25 / 40</div>
     </div>
     <div class="border-l-4 border-red-500 bg-neutral-800 text-white dark:bg-stone-800 shadow-md rounded-xl p-4">
@@ -97,15 +104,15 @@ layout: default
       <div class="weight-100 text-2xl">23 / 40</div>
     </div>
     <div class="hover:opacity-100 opacity-50 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
-      <div class="mb-3">Strategic Leadership</div>
+      <div class="mb-3 font-light">Strategic Leadership</div>
       <div class="weight-100 text-2xl">32 / 40</div>
     </div>
     <div class="hover:opacity-100 opacity-50 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
-      <div class="mb-3">Your Inner World</div>
+      <div class="mb-3 font-light">Your Inner World</div>
       <div class="weight-100 text-2xl">22 / 40</div>
     </div>
     <div class="hover:opacity-100 opacity-50 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
-      <div class="mb-3">Team Leadership</div>
+      <div class="mb-3 font-light">Team Leadership</div>
       <div class="weight-100 text-2xl">32 / 40</div>
     </div>
   </div>
@@ -120,13 +127,18 @@ image: 'assets/collaboration-stop-hoarding-script.jpg'
 
 <h2 class="border-b border-neutral-800 pb-6">From Manager to <span class="text-red-700 dark:text-red-400">Multiplier</span></h2>
 
-My team doesn’t need a fixer. They need a leader who trusts, listens, and steps back. I've started:
+My team doesn’t need a _fixer_ or a _task list_. They need a leader who trusts, listens, and steps back. I've started:
 
-- Encouraging ownership through documentation.
-- Modeling creating and using processes instead of detailed technical architecture.
-- Reframing mistakes as moments in our shared story.
+<div class="ml-10 py-2">
 
-<span class="text-red-700 dark:text-red-400">If I want leaders on my team, I need to stop hoarding the script.</span>
+<span class="inline-block -ml-8 mr-3"><twemoji-compass /></span><span class="font-medium">Encouraging ownership</span> <span class="opacity-70">through documentation.</span>
+
+<span class="inline-block -ml-8 mr-3"><twemoji-fast-forward-button /></span><span class="font-medium">Modeling leadership</span> <span class="opacity-70">through context sharing and empowerment.</span>
+
+<span class="inline-block -ml-8 mr-3"><twemoji-knot /></span><span class="font-medium">Showing vulnerabilty</span> <span class="opacity-70">by gently asking and listening for feedback.</span>
+</div>
+
+My team already does great work, <span class="text-red-700 dark:text-red-400 text-medium">what I really need are more leaders.</span>
 
 ---
 layout: default
