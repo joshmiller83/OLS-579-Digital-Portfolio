@@ -40,7 +40,7 @@ favicon: 'assets/jm-favicon.ico'
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; May 11, 2025
+    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; May 14, 2025
   </span>
   <PoweredBySlidev inline-block ml-6 opacity-30 hover:opacity-100 />
 </div>
@@ -174,14 +174,47 @@ layout: default
 
 ---
 
-<h1 class="border-b border-neutral-800 pb-6"><twemoji:books />&nbsp; Bibliography</h1>
+<div class="border-b border-neutral-800 pb-6 text-center"><div class="text-3xl font-semibold mb-2">What You Measure Shapes Who You Become</div><em class="font-thin">Pick the wrong scoreboard, and even your wins can feel like losses.</em></div>
 
-<br>
+<div class="mt-5 grid grid-cols-2 gap-10">
+  <div class="pt-6 pl-6 pb-0 bg-neutral-200 dark:bg-neutral-800 rounded-xl shadow border-t-4 border-neutral-100 border-red-500 relative">
+    <div class="abs-tr mr-6 mt-6 text-4xl"><twemoji:seedling /></div>
+    <div class="text-2xl font-semibold mb-3">Internal Success</div>
+    <div class="text-xl font-light ml-4 leading-9">
+      <div>• &nbsp; Personal goals</div>
+      <div>• &nbsp; Self-defined achievement</div>
+      <div>• &nbsp; Effort and progress</div>
+      <div>• &nbsp; Growth and learning</div>
+      <div>• &nbsp; Meaning and purpose</div>
+      <div>• &nbsp; Relationships and connection</div>
+    </div>
+  </div>
+  <div class="p-6 bg-neutral-200 dark:bg-neutral-800 rounded-xl shadow border-t-4 border-neutral-100 border-neutral-200 dark:border-neutral-800 opacity-50 hover:opacity-100 relative">
+    <div class="abs-tr mr-6 mt-6 text-4xl"><twemoji:1st-place-medal /></div>
+    <div class="text-2xl font-semibold mb-2">External Success</div>
+    <div class="text-xl font-light ml-4 leading-9">
+      <div>• &nbsp; Job titles</div>
+      <div>• &nbsp; Awards and recognition</div>
+      <div>• &nbsp; Salary and financial markers</div>
+      <div>• &nbsp; Degrees and credentials</div>
+      <div>• &nbsp; Public status or fame</div>
+      <div>• &nbsp; Societal benchmarks</div>
+    </div>
+  </div>
+</div>
 
-[Leadership Mindset 2.0 by R. Michael Anderson (2023)](https://www.leadershipmindset.net)
+<p class="text-xs opacity-70 hover:opacity-100 text-center">Based on a distinction popularized by Angela Duckworth on episode 177 of the <em><a href="https://freakonomics.com/podcast/what-does-success-look-like/" target="_blank">No Stupid Questions</a></em> podcast.</p>
 
-[Leadership: Theory and Practice, 9th Edition by Peter G. Northouse (2021)](https://us.sagepub.com/en-us/nam/leadership/book257617)
+---
 
-&nbsp;
+<div class="border-b border-neutral-800 pb-6 text-4xl mb-6"><twemoji:books />&nbsp; References </div>
+
+Anderson, R. M. (2023). *Leadership mindset 2.0: The psychology and neuroscience of reaching your full potential*. Leadership Mindset Press. [https://www.leadershipmindset.net](https://www.leadershipmindset.net)
+
+Duckworth, A., & Maughan, M. (Hosts). (2024, May 12). *What does success look like?* [Audio podcast episode]. In *No Stupid Questions*. Freakonomics Radio Network. [https://freakonomics.com/podcast/what-does-success-look-like/](https://freakonomics.com/podcast/what-does-success-look-like/)
+
+Northouse, P. G. (2021). *Leadership: Theory and practice* (9th ed.). Sage Publications. [https://us.sagepub.com/en-us/nam/leadership/book257617](https://us.sagepub.com/en-us/nam/leadership/book257617)
+
+<hr class="mt-10">
 
 _Reflections, structure, and design are by Josh Miller. Collaborated with ChatGPT to troubleshoot technical challenges and refine written content._
