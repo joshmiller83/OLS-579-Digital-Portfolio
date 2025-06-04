@@ -60,7 +60,7 @@ layout: image-right
 image: 'assets/slide-1-josh-miller-mirror.jpg'
 ---
 
-<div class="border-l-4 border-gray-400 pl-4 italic text-lg text-gray-700 dark:text-gray-300">“Your leadership is an extension of the relationship with yourself.”<div class="not-italictext-right">— R. Michael Anderson</div></div>
+<div class="border-l-4 border-gray-400 pl-4 italic text-lg text-gray-700 dark:text-gray-300">“Your leadership is an extension of the relationship with yourself.”<div class="not-italic text-right">— R. Michael Anderson</div></div>
 
 I’ve started to recognize how deeply personal leadership is. 
 
