@@ -1,6 +1,8 @@
 # OLS-579 World Class Leadership, Summer 2025
 _Josh Miller_
 
+View the slides: https://joshmiller83.github.io/OLS-579-Digital-Portfolio/
+
 ## Digital Portfolio for World Class Leadership (OLS-579)
 This Digital Portfolio is part of the OLS 579: World-Class Leadership Strategies course. It's designed to help me synthesize and visualize the key leadership theories, principles, and practices I’m learning throughout the semester. The assignment isn’t just academic — it’s meant to serve as a personal artifact of growth and a professional reflection tool I can share with mentors, advisors, or potential employers.
 
