@@ -6,7 +6,7 @@ This Digital Portfolio is part of the OLS 579: World-Class Leadership Strategies
 
 For my submission, I'm building this portfolio using Slidev, a developer-friendly, Markdown-powered slide deck framework. My goals are twofold:
 
-1. **Create a Referencable, Web-Based Leadership Toolkit** <br>
+1. **Create a Referenceable, Web-Based Leadership Toolkit** <br>
 I want this to become a living document I can return to — a concise, organized, and visually compelling reference of the leadership insights that have most influenced me. Each update will focus on ideas that shift how I lead and help me evolve from instinctual decision-making to strategy-backed leadership.
 
 2. **Build with Tools That Fit My Workflow**<br>
