@@ -266,6 +266,25 @@ layout: default
 </div>
 
 ---
+layout: image-right
+image: 'assets/RebellionsAreBuiltOnHope.jpg'
+---
+
+<h2 class="border-b border-neutral-800 pb-6">Hopefully I can avoid heroic deeds by <span class="text-red-700 dark:text-red-400">planning and empowering</span></h2>
+
+Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’ve succeeded by fitting in, fixing things, or being the go-to hero often subconciously create drama to serve that persona. I’ve been there.
+
+<div class="ml-10 py-2">
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-man-superhero-medium-light-skin-tone /></span>
+  <span class="font-medium">Saving the day is not a strategy</span>
+  <span class="opacity-70">&nbsp;— even if it is sometimes needed.</span></div>
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-counterclockwise-arrows-button /></span>
+  <span class="font-medium">We're stronger together</span>
+  <span class="opacity-70">&nbsp;— I want to help others lead, which means redirecting the spotlight.</span></div>
+</div>
+
+
+---
 
 <div class="border-b border-neutral-800 pb-6 text-4xl mb-6"><twemoji:books />&nbsp; References </div>
 
