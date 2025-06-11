@@ -207,6 +207,66 @@ layout: default
 
 ---
 
+<div class="mt-5 grid grid-cols-2 gap-10">
+  <div>
+ <h2 class="border-b border-neutral-800 pb-6">Making Instincts <span class="text-red-700 dark:text-red-400">Visible</span></h2>
+<p>In my world of web infrastructure, I constantly navigate between:</p>
+<div class="ml-10 py-2">
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-bow-and-arrow /></span>
+  <span class="font-medium">Keeping systems resilient</span>
+  <span class="opacity-70">— secure, scalable, always on.</span></div>
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-carp-streamer /></span>
+  <span class="font-medium">Keeping people engaged</span>
+  <span class="opacity-70">— connected, supported, growing.</span></div>
+</div>
+
+<p>One without the other creates <em>failure</em>. The Grid reminds me: leadership isn't just knowing what to prioritize: it's knowing how to <em>balance</em> what matters most.</p>
+
+  </div>
+  <div>
+    <div class="flex flex-col items-center justify-center p-8">
+      <div class="relative w-95% max-w-3xl aspect-square border border-gray-400">
+        <div class="absolute top-0 left-1/2 w-100% text-center transform -translate-x-1/2 -translate-y-full text-sm text-gray-700 dark:text-gray-300">
+          High Concern for People
+        </div>
+        <div class="absolute bottom-0 left-1/2 w-100% text-center transform -translate-x-1/2 translate-y-full text-sm text-gray-700 dark:text-gray-300">
+          Low Concern for People
+        </div>
+        <div class="absolute top-1/2 left-[17%] transform -translate-y-1/2 -translate-x-full text-sm text-gray-700 dark:text-gray-300 text-center rotate-270">
+          Low Concern for Results
+        </div>
+        <div class="absolute top-1/2 right-45% w-100% text-center transform -translate-y-1/2 translate-x-full text-sm text-gray-700 dark:text-gray-300 text-center rotate-90">
+          High Concern for Results
+        </div>
+        <div class="absolute grid grid-cols-9 grid-rows-9 h-full w-full"><div class="bg-gray-200 dark:bg-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="bg-gray-200 dark:bg-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="bg-gray-200 dark:bg-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="bg-gray-200 dark:bg-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="border-b border-gray-200 border-r dark:border-neutral-700"></div><div class="bg-gray-200 dark:bg-neutral-700"></div></div>
+        <div class="absolute left-[15%] top-[8%] -translate-x-1/2 -translate-y-1/2 text-sm">
+          <div class="font-semibold">1,9</div>
+          <div>Country Club</div>
+        </div>
+        <div class="absolute left-[47%] top-[8%] w-full -translate-x-1/2 -translate-y-1/2 text-sm text-right">
+          <div class="font-semibold">9,9</div>
+          <div>Team Leader</div>
+        </div>
+        <div class="absolute left-[23%] top-[91%] -translate-x-1/2 -translate-y-1/2 text-sm">
+          <div>Impoverished Leader</div>
+          <div class="font-semibold">1,1</div>
+        </div>
+        <div class="absolute left-[50%] top-[52%] -translate-x-1/2 -translate-y-1/2 text-sm text-center">
+          <div class="font-semibold">5,5</div>
+          <div>Middle-of-the-Road</div>
+        </div>
+        <div class="absolute w-full left-[47%] top-[97%] -translate-x-1/2 -translate-y-full text-sm text-right">
+          <div>Authority-Compliance</div>
+          <div class="font-semibold">9,1</div>
+        </div>
+      </div>
+      <p class="pt-6 text-neutral-600 dark:text-neutral-400 italic">The Managerial Grid (Blake & Mouton)</p>
+    </div>
+  </div>
+</div>
+
+---
+
 <div class="border-b border-neutral-800 pb-6 text-4xl mb-6"><twemoji:books />&nbsp; References </div>
 
 Anderson, R. M. (2023). *Leadership mindset 2.0: The psychology and neuroscience of reaching your full potential*. Leadership Mindset Press. [https://www.leadershipmindset.net](https://www.leadershipmindset.net)
