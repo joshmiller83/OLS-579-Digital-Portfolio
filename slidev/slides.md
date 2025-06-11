@@ -283,6 +283,47 @@ Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’v
   <span class="opacity-70">&nbsp;— I want to help others lead, which means redirecting the spotlight.</span></div>
 </div>
 
+---
+
+<div class="border-b border-neutral-800 pb-6 text-center">
+  <div class="text-3xl font-semibold mb-2">Often I blame myself</div>
+  <em class="font-thin">Self-forgiveness isn’t weakness — it’s how leaders grow without burning out.</em>
+</div>
+
+<div class="mt-5 grid grid-cols-2 gap-10">
+  <!-- Left Column: Ego & Judgment -->
+  <div class="pt-6 pl-6 pb-0 bg-neutral-200 dark:bg-neutral-800 rounded-xl shadow border-t-4 border-neutral-100 border-red-500 relative">
+    <div class="abs-tr mr-6 mt-6 text-4xl"><twemoji:balance-scale /></div>
+    <div class="text-2xl font-semibold mb-3">Ego & Judgment</div>
+    <div class="text-xl font-light ml-4 leading-9">
+      <div>• &nbsp; “I should have known better”</div>
+      <div>• &nbsp; Harsh inner dialogue</div>
+      <div>• &nbsp; Energy leaks from shame</div>
+      <div>• &nbsp; Stuck in past decisions</div>
+      <div>• &nbsp; Fear of being seen as weak</div>
+      <div>• &nbsp; Identity tied to flawlessness</div>
+    </div>
+  </div>
+
+  <!-- Right Column: Self-Forgiveness -->
+  <div class="p-6 bg-neutral-200 dark:bg-neutral-800 rounded-xl shadow border-t-4 border-neutral-100 border-green-500 relative">
+    <div class="abs-tr mr-6 mt-6 text-4xl"><twemoji:seedling /></div>
+    <div class="text-2xl font-semibold mb-2">Self-Compassion</div>
+    <div class="text-xl font-light ml-4 leading-9">
+      <div>• &nbsp; “I release the judgment”</div>
+      <div>• &nbsp; Kindness toward past self</div>
+      <div>• &nbsp; Energy redirected into presence</div>
+      <div>• &nbsp; Learning without self-punishment</div>
+      <div>• &nbsp; Growth through compassion</div>
+      <div>• &nbsp; Clarity from emotional neutrality</div>
+    </div>
+  </div>
+</div>
+
+<p class="text-xs opacity-70 hover:opacity-100 text-center">
+  Inspired by Chapter 14 of <em>Leadership Mindset 2.0</em> by R. Michael Anderson.
+</p>
+
 
 ---
 
