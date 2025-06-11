@@ -324,6 +324,37 @@ Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’v
   Inspired by Chapter 14 of <em>Leadership Mindset 2.0</em> by R. Michael Anderson.
 </p>
 
+---
+
+<div class="flex flex-col items-center space-y-8 mt-10 text-center text-lg">
+  <h1 class="text-2xl font-semibold">
+    Practice Empathy by <span class="text-red-700 dark:text-red-400">Asking What/How</span>
+  </h1>
+
+  <div class="flex items-center space-x-4 pb-12">
+    <div class="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-xl shadow-md border-t-4 border-b-4 border-neutral-100 dark:border-neutral-800 hover:border-red-500">
+      <div class="text-sm text-gray-400 uppercase">When frustrated</div>
+      <div class="text-4xl font-bold mt-5 mb-6">Deep breath</div>
+      <div class="text-neutral-400 italic">Redirect blame<br>and ego.</div>
+    </div>
+    <div class="text-4xl">→</div>
+    <div class="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-xl shadow-md border-t-4 border-b-4 border-neutral-100 dark:border-neutral-800 hover:border-red-500">
+      <div class="text-sm text-gray-400 uppercase">Shift your lens</div>
+      <div class="text-4xl font-bold mt-5 mb-6">Ask “What?”</div>
+      <div class="text-neutral-400 italic">What happened?<br>What systems contributed?</div>
+    </div>
+    <div class="text-4xl">→</div>
+    <div class="bg-neutral-100 dark:bg-neutral-800 p-4 rounded-xl shadow-md border-t-4 border-b-4 border-neutral-100 dark:border-neutral-800 hover:border-red-500">
+      <div class="text-sm text-gray-400 uppercase">Look forward</div>
+      <div class="text-4xl font-bold mt-5 mb-6">Build Clarity</div>
+      <div class="text-neutral-400 italic">How can we prevent this?<br>Why did it unfold this way?</div>
+    </div>
+  </div>
+</div>
+
+<p class="border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 italic">
+  Based on Chapter 17 of <em>Leadership Mindset 2.0</em> by Anderson (2023).
+</p>
 
 ---
 
