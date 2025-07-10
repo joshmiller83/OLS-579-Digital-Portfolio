@@ -22,6 +22,7 @@ fonts:
   italic: true
 
 favicon: 'assets/jm-favicon.ico'
+
 # open graph
 # seoMeta:
 #  ogImage: https://cover.sli.dev
@@ -40,7 +41,7 @@ favicon: 'assets/jm-favicon.ico'
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; June 11, 2025
+    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 9, 2025
   </span>
   <PoweredBySlidev inline-block ml-6 opacity-30 hover:opacity-100 />
 </div>
@@ -355,6 +356,97 @@ Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’v
 <p class="border-t border-neutral-200 dark:border-neutral-800 pt-6 text-neutral-600 dark:text-neutral-400 italic">
   Based on Chapter 17 of <em>Leadership Mindset 2.0</em> by Anderson (2023).
 </p>
+
+---
+
+<div style="background: url('assets/Triangle-Up.png')  no-repeat; background-size: cover; background-position-x: center;" class="absolute top-8 left-8 text-center w-7/12 text-white">
+<div class="pt-8 pb-4 m-0 mt-12 leading-none font-bold text-red-400">ME</div>
+<div class="m-0">My sanity,<br>
+clarity, and health<br>
+comes first</div>
+<div class="pt-8 pb-4 m-0 leading-none font-bold text-neutral-400">ORGANIZATION & TEAM</div>
+<div>The team and the org are<br>
+more important than any individual</div>
+<div class="pt-8 pb-4 m-0 leading-none font-bold text-neutral-400">INDIVIDUAL TEAM MEMBERS</div>
+<div class="mb-8">Squeaky wheel team members are important<br>
+but not as important as everything above</div>
+</div>
+<div style="background: url('assets/Triangle-Down.png')  no-repeat; background-size: cover; background-position-y: bottom;" class="absolute top-16 right-8 text-center w-7/12 text-white">
+
+<div class="mt-8 pb-4 m-0 leading-none font-bold text-neutral-400">STAKEHOLDERS</div>
+<div>I am in service to, or supporting, everyone else<br />
+above me. Stakeholders are number one.</div>
+<div class="pt-8 pb-4 m-0 leading-none font-bold text-neutral-400">INDIVIDUAL TEAM MEMBERS</div>
+<div>Individuals come as a next priority.</div>
+<div class="pt-8 pb-4 m-0 leading-none font-bold text-neutral-400">ORGANIZATION / <br>
+TEAM AS A WHOLE</div>
+<div>Servant Leader</div>
+<div class="pt-8 m-0 mb-24 leading-none font-bold text-red-400">ME</div>
+</div>
+<h2 class="absolute bottom-4 left-56 italic">Pyramid of Values</h2>
+<h2 class="absolute top-4 right-56 italic">Pyramid of Service</h2>
+
+---
+
+<div class="border-b border-neutral-800 pb-6 text-center">
+  <div class="text-3xl font-semibold mb-2">Everyone Deserves to be Trusted</div>
+  <em class="font-thin">In-groups shouldn’t be exclusive and static, they should be expanding.</em>
+</div>
+
+<div class="mt-5 grid grid-cols-2 gap-10">
+  <div>
+<p>As part of my transformation into a global leader, I will try to treat every teammate like they’re part of the in-group:</p>
+<div class="ml-10 py-2">
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-compass /></span>
+  <span class="font-medium">More transparency</span>
+  <span class="opacity-70"> — sharing the “why” behind decisions.</span></div>
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-handshake /></span>
+  <span class="font-medium">More invitations</span>
+  <span class="opacity-70"> — to stretch, contribute, and co-create.</span></div>
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-hammer-and-wrench /></span>
+  <span class="font-medium">More consistency</span>
+  <span class="opacity-70"> — in how I follow through and check in.</span></div>
+</div>
+
+<p>Trust isn't a reward. My in-group growth starts with me extending trust through mutual respect, dependability, and connection.</p>
+</div>
+  <div class="flex items-center justify-center">
+    <div class="relative w-[350px] h-[350px]">
+      <div class="absolute inset-0 rounded-full border-2 border-black dark:border-white hover:border-neutral-400 flex items-center justify-center text-black dark:text-white hover:text-neutral-400 text-lg hover:text-base hover:italic">
+        <div class="absolute top-4 text-center font-medium">
+          My Circle of<br>Influence
+        </div>
+        <div class="w-[200px] h-[200px] hover:w-[340px] hover:h-[340px] rounded-full border-2 border-red-400 flex items-center justify-center relative mt-10 hover:mt-0 hover:not-italic hover:text-3xl">
+          <div class="text-center font-semibold text-black dark:text-white">
+            In-Group<br />Experience<div class="mt-4 mb-12 text-2xl"><twemoji-compass /> <twemoji-handshake /> <twemoji-hammer-and-wrench /></div>
+          </div>
+          <div class="absolute bottom-[20px] left-18 transform -translate-x-1/2 flex flex-col items-center">
+            <div class="w-[120px] text-sm mt-3 text-neutral-900 text-center leading-tight bg-red-400 px-2 font-bold">
+              Trust-building<br />behaviors
+            </div>
+            <div class="absolute top-[-2px] left-[-29px] w-0 h-0 border-t-32 border-b-32 border-r-[30px] border-transparent border-r-red-400"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+“Unbreakable Commitments”
+
+---
+
+Growth Leadership: Who I am and How I should Communicate (Four Quadrants)
+
+---
+
+“Authentic Leadership in Action” Show four dimensions
+
+---
+
+Delegation in Action
 
 ---
 
