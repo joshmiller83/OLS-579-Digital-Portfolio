@@ -41,7 +41,7 @@ favicon: 'assets/jm-favicon.ico'
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 9, 2025
+    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 12, 2025
   </span>
   <PoweredBySlidev inline-block ml-6 opacity-30 hover:opacity-100 />
 </div>
@@ -208,12 +208,12 @@ layout: default
 
 ---
 
-<div class="mt-5 grid grid-cols-2 gap-10">
+<div class="mt-5 mb-5 grid grid-cols-2 gap-10">
   <div>
- <h2 class="border-b border-neutral-800 pb-6">Making Instincts <span class="text-red-700 dark:text-red-400">Visible</span></h2>
-<p>In my world of web infrastructure, I constantly navigate between:</p>
+ <h1 class="border-b border-neutral-800 pb-6">Results <span class="text-red-700 dark:text-red-400 italic">and</span> People</h1>
+<p><br>In my world of web infrastructure, I constantly navigate between:</p>
 <div class="ml-10 py-2">
-  <div><span class="inline-block -ml-8 mr-3"><twemoji-bow-and-arrow /></span>
+  <div class="mb-4"><span class="inline-block -ml-8 mr-3"><twemoji-bow-and-arrow /></span>
   <span class="font-medium">Keeping systems resilient</span>
   <span class="opacity-70">— secure, scalable, always on.</span></div>
   <div><span class="inline-block -ml-8 mr-3"><twemoji-carp-streamer /></span>
@@ -276,7 +276,7 @@ image: 'assets/RebellionsAreBuiltOnHope.jpg'
 Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’ve succeeded by fitting in, fixing things, or being the go-to hero often subconciously create drama to serve that persona. I’ve been there.
 
 <div class="ml-10 py-2">
-  <div><span class="inline-block -ml-8 mr-3"><twemoji-man-superhero-medium-light-skin-tone /></span>
+  <div class="mb-4"><span class="inline-block -ml-8 mr-3"><twemoji-man-superhero-medium-light-skin-tone /></span>
   <span class="font-medium">Saving the day is not a strategy</span>
   <span class="opacity-70">&nbsp;— even if it is sometimes needed.</span></div>
   <div><span class="inline-block -ml-8 mr-3"><twemoji-counterclockwise-arrows-button /></span>
@@ -311,7 +311,7 @@ Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’v
     <div class="abs-tr mr-6 mt-6 text-4xl"><twemoji:seedling /></div>
     <div class="text-2xl font-semibold mb-2">Self-Compassion</div>
     <div class="text-xl font-light ml-4 leading-9">
-      <div>• &nbsp; “I release the judgment”</div>
+      <div>• &nbsp; “I am enough”</div>
       <div>• &nbsp; Kindness toward past self</div>
       <div>• &nbsp; Energy redirected into presence</div>
       <div>• &nbsp; Learning without self-punishment</div>
@@ -359,7 +359,7 @@ Anderson asks us to look in the mirror: If I'm not growing, why? Leaders who’v
 
 ---
 
-<div style="background: url('assets/Triangle-Up.png')  no-repeat; background-size: cover; background-position-x: center;" class="absolute top-8 left-8 text-center w-7/12 text-white">
+<div style="background: url('assets/Triangle-Up.png')  no-repeat; background-size: cover; background-position-x: center;" class="absolute top-8 left-16 text-center w-7/12 text-white">
 <div class="pt-8 pb-4 m-0 mt-12 leading-none font-bold text-red-400">ME</div>
 <div class="m-0">My sanity,<br>
 clarity, and health<br>
@@ -383,17 +383,18 @@ TEAM AS A WHOLE</div>
 <div>Servant Leader</div>
 <div class="pt-8 m-0 mb-24 leading-none font-bold text-red-400">ME</div>
 </div>
-<h2 class="absolute bottom-4 left-56 italic">Pyramid of Values</h2>
+<h2 class="absolute bottom-4 left-62 italic">Pyramid of Values</h2>
 <h2 class="absolute top-4 right-56 italic">Pyramid of Service</h2>
+<p class="text-neutral-600 dark:text-neutral-400"><em>Two Pyramids of Leadership</em><br>Ch. 22 (Anderson 2023)
+</p>
 
 ---
 
 <div class="border-b border-neutral-800 pb-6 text-center">
   <div class="text-3xl font-semibold mb-2">Everyone Deserves to be Trusted</div>
-  <em class="font-thin">In-groups shouldn’t be exclusive and static, they should be expanding.</em>
 </div>
 
-<div class="mt-5 grid grid-cols-2 gap-10">
+<div class="mt-2 grid grid-cols-2 gap-10">
   <div>
 <p>As part of my transformation into a global leader, I will try to treat every teammate like they’re part of the in-group:</p>
 <div class="ml-10 py-2">
@@ -410,6 +411,7 @@ TEAM AS A WHOLE</div>
 
 <p>Trust isn't a reward. My in-group growth starts with me extending trust through mutual respect, dependability, and connection.</p>
 </div>
+  <div>
   <div class="flex items-center justify-center">
     <div class="relative w-[350px] h-[350px]">
       <div class="absolute inset-0 rounded-full border-2 border-black dark:border-white hover:border-neutral-400 flex items-center justify-center text-black dark:text-white hover:text-neutral-400 text-lg hover:text-base hover:italic">
@@ -430,23 +432,82 @@ TEAM AS A WHOLE</div>
       </div>
     </div>
   </div>
+
+<div class="text-center mt-6 text-neutral-500 text-sm">Leader Member Exchange Theory<br>Leadership: Theory and Practice
+Textbook (Northouse 2011)</div>
+  </div>
 </div>
 
 ---
 
-“Unbreakable Commitments”
+<h1 class="border-b border-neutral-800 pb-6">Everyone knew my quick promise was worthless</h1>
+<div class="grid grid-cols-5 gap-4 leading-loose mt-8">
+  <div class="col-span-3">
+    <div class="text-xl pr-14">Regarding <twemoji:fire /> <em class="font-medium text-red-700 dark:text-red-400">commitments</em>, my reliability has quietly eroded. I discovered my team was working around my lack of follow-through. I'm rebuilding trust by learning to:</div>
+  </div>
+  <div class="col-span-2">
+    <div class="text-xl leading-12 font-light"><twemoji-white-heavy-check-mark /> &nbsp;Write down every commitment.<br>
+<twemoji-white-heavy-check-mark /> &nbsp;Renegotiate before the deadline.<br>
+<twemoji-white-heavy-check-mark /> &nbsp;Say less, follow through more.</div>
+  </div>
+</div>
+
+<div class="overflow-x-auto mt-10">
+  <div class="grid grid-cols-5 gap-4 cursor-pointer ">
+    <div class="hover:opacity-100 opacity-80 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
+      <div class="weight-100 text-2xl mb-3">Sprints</div>
+      <div class="font-light">Deliver or renegotiate before the end.</div>
+    </div>
+    <div class="border-l-4 border-red-500 bg-neutral-800 text-white dark:bg-stone-800 shadow-md rounded-xl p-4">
+      <div class="weight-100 text-2xl mb-3">1:1's</div>
+      <div class="font-light">Respond or follow up on the same day.</div>
+    </div>
+    <div class="hover:opacity-100 opacity-80 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
+      <div class="weight-100 text-2xl mb-3">Scope</div>
+      <div class="font-light">Confirm expectations early and often.</div>
+    </div>
+    <div class="hover:opacity-100 opacity-80 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
+      <div class="weight-100 text-2xl mb-3">Slowly</div>
+      <div class="font-light">Less promises leads to more kept ones.</div>
+    </div>
+    <div class="hover:opacity-100 opacity-80 border-l-4 border-neutral-500 bg-neutral-200 dark:bg-neutral-800 shadow-md rounded-xl p-4">
+      <div class="weight-100 text-2xl mb-3">Build</div>
+      <div class="font-light">Create systems that have check-ins.</div>
+    </div>
+  </div>
+</div>
+
+<p class="text-right text-neutral-500 text-sm italic">Unbreakable Commitments from the <a href="https://rmichaelanderson.com/" target="_blank">Leadership Mindset 2.0</a></p>
 
 ---
 
-Growth Leadership: Who I am and How I should Communicate (Four Quadrants)
+<div class="-mx-5 grid grid-cols-4 gap-0 dark:bg-neutral-800 rounded-4 mb-10">
+  <div class="scale-85 dark:bg-neutral-900 p-2 rounded-2 pb-0 outline outline-neutral-700 outline-[1px]">
+    <div class="text-center text-xl font-medium border-b border-neutral-600 pb-2">Dominant Commanders</div>
+    <p><twemoji-microscope /> <em>Identify...</em> They speak in short, direct sentences; They must get to the point</p>
+    <p><twemoji-woman-playing-handball-medium-light-skin-tone /> <em>I should...</em> Avoid extraneous details; Challenge them, they will respect you for it; Be prepared for impulsive “all in” mentality if you present a clear benefit and respond with short answers.</p>
+  </div>
+  <div class="-my-4 dark:bg-neutral-700 px-3 py-2 rounded-2 my-4 outline outline-neutral-500 dark:outline-red-400 outline-[1px] dark:border-[5px] border-neutral-800">
+    <div class="text-center font-black italic text-2xl">Visionary Influencer</div>
+    <p style="zoom:85%">I shine in the spotlight, build strong relationships, and thrive on big ideas—not details or repetition.</p>
+    <p style="zoom:85%"><em>I should ...</em> build systems that keep me accountable, practice saying “no” with clarity, create space for difficult conversations, stay grounded in logic when needed, talk less in meetings, and seek collaboration instead of isolation.</p>
+  </div>
+  <div class="scale-85 dark:bg-neutral-900 p-2 rounded-2 pb-0 outline outline-neutral-700 outline-[1px]">
+    <div class="text-center text-xl font-medium border-b border-neutral-600 pb-2">Supportive Collaborators</div>
+    <p><twemoji-potted-plant /> <em>Identify...</em> They speak gently, prioritize harmony, and may prefer private conversations to group settings.</p>
+    <p><twemoji-person-in-lotus-position-light-skin-tone /> <em>I should...</em> Create a safe space for honest input; Show how change helps the whole team; Be mindful not to overwhelm them with intensity or urgency.</p>
+  </div>
+  <div class="scale-85 dark:bg-neutral-900 p-2 rounded-2 pb-0 outline outline-neutral-700 outline-[1px]">
+    <div class="text-center text-xl font-medium border-b border-neutral-600 pb-2">Logical Creators</div>
+    <p><twemoji-abacus /> <em>Identify...</em> They speak evenly and precisely; They seek full context and details before acting; They spot risks others miss.</p>
+    <p><twemoji-brain /> <em>I should...</em> Be thorough and calm; Share complete information and surface risks early; Don’t force quick decisions or high-emotion interactions — they prefer clarity over charisma.</p>
+  </div>
+</div>
 
----
-
-“Authentic Leadership in Action” Show four dimensions
-
----
-
-Delegation in Action
+<p class="border-t border-neutral-200 dark:border-neutral-800 pt-2 text-neutral-600 dark:text-neutral-400 italic">
+  Four Growth Leadership Styles, Chapter 25, <em>Leadership Mindset 2.0</em> by Anderson (2023).
+</p>
+<!-- “Authentic Leadership in Action” Show four dimensions; Delegation in Action -->
 
 ---
 
