@@ -41,7 +41,7 @@ favicon: 'assets/jm-favicon.ico'
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 12, 2025
+    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 19, 2025
   </span>
   <PoweredBySlidev inline-block ml-6 opacity-30 hover:opacity-100 />
 </div>
@@ -507,7 +507,116 @@ Textbook (Northouse 2011)</div>
 <p class="border-t border-neutral-200 dark:border-neutral-800 pt-2 text-neutral-600 dark:text-neutral-400 italic">
   Four Growth Leadership Styles, Chapter 25, <em>Leadership Mindset 2.0</em> by Anderson (2023).
 </p>
-<!-- “Authentic Leadership in Action” Show four dimensions; Delegation in Action -->
+
+---
+title: Authentic Leadership
+---
+<h1 class="border-b border-neutral-800 pb-6">Authentic Leadership</h1>
+
+<div class="grid grid-cols-2 gap-10 mt-8 text-lg leading-relaxed">
+  <div>
+    <div class="text-2xl font-semibold text-red-700 dark:text-red-400 mb-2">Four Components</div>
+    <ul class="list-disc list-inside">
+      <li><strong>Self-Awareness:</strong> Knowing and trusting your core values.</li>
+      <li><strong>Relational Transparency:</strong> Being open and honest with others.</li>
+      <li><strong>Internalized Moral Perspective:</strong> Acting with integrity, not just compliance.</li>
+      <li><strong>Balanced Processing:</strong> Seeking multiple perspectives before making decisions.</li>
+    </ul>
+  </div>
+  <div class="bg-neutral-100 dark:bg-neutral-800 p-6 rounded-xl shadow-md border-l-4 border-red-500">
+    <div class="italic mb-3 text-3xl">Authentic leaders know who they are and what they believe in. They act on those values transparently and consistently.</div>
+    <div class="text-lg text-neutral-300">— Adapted from Northouse (2022)</div>
+  </div>
+</div>
+
+---
+title: Action Plan
+layout: image-left
+image: 'assets/slide-1-josh-miller-mirror.jpg'
+---
+# From Reflection to Action
+
+
+<div class="ml-10 py-2">
+  <div class="mb-8"><span class="inline-block -ml-8 mr-3"><twemoji-mirror /></span>
+  <span class="font-medium">From reflection to action</span>
+  <span class="opacity-70">— turning self-awareness into daily leadership behaviors.</span></div>
+  
+  <div class="mb-8"><span class="inline-block -ml-8 mr-3"><twemoji-seedling /></span>
+  <span class="font-medium">Responding with intention</span>
+  <span class="opacity-70">— using the ARC model to stay grounded under pressure.</span></div>
+  
+  <div class="mb-8"><span class="inline-block -ml-8 mr-3"><twemoji-handshake /></span>
+  <span class="font-medium">Expanding my circle</span>
+  <span class="opacity-70">— practicing LMX by building trust and inclusion.</span></div>
+  
+  <div><span class="inline-block -ml-8 mr-3"><twemoji-scroll /></span>
+  <span class="font-medium">Saying less, doing more</span>
+  <span class="opacity-70">— making fewer commitments and following through with integrity.</span></div>
+</div>
+
+
+---
+title: Commitments and Theoretical Alignments
+---
+
+<h1 class="border-b border-neutral-800 pb-6">Commitments Grounded in Theory</h1>
+
+<div class="grid grid-cols-2 gap-10 mt-8 text-lg leading-relaxed">
+
+  <div class="bg-neutral-100 dark:bg-neutral-800 p-6 rounded-xl shadow-md border-l-4 border-red-500">
+    <div class="text-xl font-semibold mb-2"><twemoji-face-with-monocle /> Imposter Syndrome</div>
+    <div><span class="font-medium">Tool:</span> “50 Stack” Reflection Exercise</div>
+    <div class="text-sm text-neutral-500 mt-1">Leadership Mindset 2.0 (Anderson, 2023)</div>
+  </div>
+
+  <div class="bg-neutral-100 dark:bg-neutral-800 p-6 rounded-xl shadow-md border-l-4 border-blue-500">
+    <div class="text-xl font-semibold mb-2"><twemoji-seedling /> Feedback & Defensiveness</div>
+    <div><span class="font-medium">Tool:</span> ARC Response Model</div>
+    <div class="text-sm text-neutral-500 mt-1">Leadership Mindset 2.0 (Anderson, 2023)</div>
+  </div>
+
+  <div class="bg-neutral-100 dark:bg-neutral-800 p-6 rounded-xl shadow-md border-l-4 border-green-500">
+    <div class="text-xl font-semibold mb-2"><twemoji-handshake /> Spotlight & Inclusion</div>
+    <div><span class="font-medium">Tool:</span> Leader-Member Exchange Theory</div>
+    <div class="text-sm text-neutral-500 mt-1">Leadership: Theory and Practice (Northouse, 2022)</div>
+  </div>
+
+  <div class="bg-neutral-100 dark:bg-neutral-800 p-6 rounded-xl shadow-md border-l-4 border-yellow-500">
+    <div class="text-xl font-semibold mb-2"><twemoji-scroll /> Reliability & Trust</div>
+    <div><span class="font-medium">Tool:</span> Unbreakable Commitments</div>
+    <div class="text-sm text-neutral-500 mt-1">Leadership Mindset 2.0 (Anderson, 2023)</div>
+  </div>
+
+</div>
+
+---
+title: Leadership Statement
+---
+<div class="text-center text-4xl font-semibold border-b border-neutral-800 pb-6">Leadership Statement</div>
+
+<div class="mt-10 text-2xl font-light italic text-neutral-700 dark:text-neutral-300 leading-relaxed">
+  I lead with the belief that <span class="text-red-700 dark:text-red-400 font-medium">trust (not control)</span> is the foundation of meaningful work. Leadership is not a badge of authority, but a responsibility to create the conditions where others thrive, innovate, and bring their whole selves to the table.
+</div>
+
+<div class="mt-10 text-2xl font-light italic text-neutral-700 dark:text-neutral-300 leading-relaxed">
+  I believe that <span class="text-red-700 dark:text-red-400 font-medium">evidence, honesty, inclusion,</span> and <span class="text-red-700 dark:text-red-400 font-medium">impact</span> should guide decisions, even when it’s uncomfortable or costly.
+  I strive to be a leader who listens more than he speaks, stays grounded under pressure, and builds teams that solve complex problems while staying anchored to long-term purpose.
+</div>
+
+---
+title: Leadership Vision
+---
+
+<div class="text-center text-4xl font-semibold border-b border-neutral-800 pb-6">Vision for My Career as a Leader</div>
+
+<div class="mt-10 text-2xl font-light italic text-neutral-700 dark:text-neutral-300 leading-relaxed">
+  I envision myself as a <span class="text-red-700 dark:text-red-400 font-medium">senior executive</span> leading teams that build systems for social good—organizations where innovation serves equity, and leadership is defined by <span class="text-red-700 dark:text-red-400 font-medium">trust, clarity, and care</span>.
+</div>
+
+<div class="mt-10 text-2xl font-light italic text-neutral-700 dark:text-neutral-300 leading-relaxed">
+  In this future, I am not just solving problems; I am creating the conditions for others to solve them.  I lead with <span class="text-red-700 dark:text-red-400 font-medium">presence, not pressure</span>. I listen more than I speak. And I am known not for being the smartest person in the room, but for making sure the <span class="text-red-700 dark:text-red-400 font-medium">quietest voices get heard</span>.
+</div>
 
 ---
 
